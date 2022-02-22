@@ -46,8 +46,8 @@ public class Program {
 			catch (InputMismatchException e) {
 				System.out.println(e.getMessage());
 				sc.nextLine();
-			}
-		}
+			} 
+		} 
 
 	}
 
